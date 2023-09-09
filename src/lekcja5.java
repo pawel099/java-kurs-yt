@@ -39,6 +39,9 @@ public class lekcja5 extends JFrame {
                    case "michal":
                        JOptionPane.showMessageDialog(frame, "hello michal");
 
+                  case "asia":
+                  JOptionPane.showMessageDialog(frame, "hello Joanna");
+
                    break;
 
                    default: System.out.println("niestety nie zgadłeś , spróbuj ponownie");
