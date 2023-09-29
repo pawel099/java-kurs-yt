@@ -1,61 +1,28 @@
-
-
-/* tablice zadanie wyswietl dane z tablicy za pomocą 3 róznych pętli */
-
+/* typy referencyjne + string pool  */
 public class lekcja3 {
-
-    private void loopinfor() {
-
-        int index = 0;
-
-        int[] tabelka = new int[5];
-
-        tabelka[0] = 1;
-        tabelka[1] = 2;
-        tabelka[2] = 3;
-        tabelka[3] = 4;
-        tabelka[4] = 5;
+    public static void main(String[] args) {
 
 
-        for (index=0;index<tabelka.length;index++) {
-            System.out.println(tabelka[index]);
+	/* int a =3;
+	 System.out.println("a:" + a );
 
-        }
-     }
+	 int b =3;
 
-    private void wynik() {
+	 System.out.println("a:" + b );
 
-     int index = 0;
+	 System.out.println("a==b " + (a==b));
 
-     int[] tabelka ={1,2,3,4};
+	 */
 
-     do {
-         index++;
-         System.out.println(tabelka[index]);
+        Integer avar =127;
+        System.out.println("a:" + avar);
+        Integer bvar =127;
 
-     } while (index<tabelka.length-1);
-   }
+        System.out.println("a:" + bvar );
+        System.out.println("a==b " + (avar.equals(bvar)));
 
-    public static void main(String[] args){
-        /*
-         int[] tabelka = new int[5];
 
-         tabelka[0] = 1;
-         tabelka[1] = 2;
-         tabelka[2] = 3;
-         tabelka[3] = 4;
-         tabelka[4] = 5;
-
-         int i = 0;
-
-         while (i< tabelka.length - 1) {
-             System.out.println(tabelka[i]);
-             i++;
-         }
- */
-       lekcja3 dane = new lekcja3();
-       dane.wynik();
-
+    }
  }
 
- }
+
