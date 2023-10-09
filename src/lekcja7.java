@@ -1,49 +1,21 @@
-import javax.swing.*;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class lekcja7 {
 
     private Scanner scanner ;
 
-    protected int instrukcjeWarunkowe(int wyniki) {
-
-              if (wyniki == 1) {
-
-                scanner = new Scanner(System.in);
-
-                System.out.print("oblicz d\u0142ugo\u015B\u0107 boku kwadratu aby wyliczy\u0107 jego obwód \u015B\u0107: ");
-                int x = scanner.nextInt();
-                int suma = (4 * x);
-
-                return suma;
-
-            } else if (wyniki == 2) {
-
-                scanner = new Scanner(System.in);
-
-                System.out.print("podaj długość boku A prostokąta: ");
-
-                int x = scanner.nextInt();
-                System.out.print("podaj długość boku B prostokąta: ");
-
-                int y = scanner.nextInt();
-                int suma = 2 * x + 2 * y;
-                return suma;
-            }
-
-            return 0;
-    }
     private int switchCase(int f) {
 
         switch(f) {
 
-                    case 1:
+            case 1:
                     scanner = new Scanner(System.in);
 
-                    System.out.print("oblicz d\u0142ugo\u015B\u0107 boku kwadratu aby wyliczy\u0107 jego obwód\u015B\u0107: ");
+                    System.out.print("oblicz długość boku kwadratu aby wyliczyć jego obwód: ");
                     int c = scanner.nextInt();
                     int suma = (4 * c);
                     return suma;
+
                     case 2:
 
                     scanner = new Scanner(System.in);
@@ -51,28 +23,38 @@ public class lekcja7 {
                     int x = scanner.nextInt();
 
                     System.out.print("podaj długość boku B prostokąta: ");
-
                     int y = scanner.nextInt();
-                        System.out.print("pole prostokąta: to " + (2 * x + 2 * y));
-                    suma = 2 * x + 2 * y;
+                    suma =  (2 * x + 2 * y);
 
                     return suma;
-
-            }
-
-          return 0;
+         }
+         return 0;
     }
 
         public static void main(String[] args)  {
 
+            String newline = System.lineSeparator();
+            System.out.println("WZORY MATEMATYCZNE:");
+            System.out.println("Wybierz wzór:" + newline + "1) obwód kwadratu" + newline + "2) obwód prostakąta" );
+            Scanner sca = new Scanner(System.in);
+
         Scanner initialize  = new Scanner(System.in);
+
         int y = initialize.nextInt();
         lekcja7 wynik = new lekcja7();
 
+          if (y==1) {
+            System.out.println("obwód kwadratu: to " + wynik.switchCase(y));
+          }
 
-    System.out.println(wynik.switchCase(y));
+         else if (y==2) {
+            System.out.println("obwód prostokąta: to " + wynik.switchCase(y));
+         }
 
+         else {
+              System.out.println("nie ma takiej opcji");
 
-}
+          }
+    }
 
 }
