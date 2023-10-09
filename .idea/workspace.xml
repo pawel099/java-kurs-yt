@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0336ae65-8ecf-454e-9329-e4510c5e1ba9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lekcja7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lekcja7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="switchcaseYt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="switchcaseYt" />
+      <module name="java-kurs-yt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.switchcaseYt" />
       <item itemvalue="Application.lekcja7" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.simpeGames" />
@@ -68,6 +77,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.lekcja7" />
+        <item itemvalue="Application.switchcaseYt" />
         <item itemvalue="Application.simpeGames" />
         <item itemvalue="Application.Main" />
       </list>
