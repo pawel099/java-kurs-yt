@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0336ae65-8ecf-454e-9329-e4510c5e1ba9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lekcja9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tablice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lekcja10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lekcja9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lekcja9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lekcja9">
+  <component name="RunManager" selected="Application.lekcja10">
+    <configuration name="lekcja10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lekcja10" />
+      <module name="java-kurs-yt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lekcja7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lekcja7" />
       <module name="java-kurs-yt" />
@@ -50,13 +57,6 @@
     </configuration>
     <configuration name="lekcja9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lekcja9" />
-      <module name="java-kurs-yt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="simpeGames" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
       <module name="java-kurs-yt" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,19 +77,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.lekcja10" />
       <item itemvalue="Application.lekcja9" />
       <item itemvalue="Application.tablice" />
       <item itemvalue="Application.switchcaseYt" />
       <item itemvalue="Application.lekcja7" />
-      <item itemvalue="Application.simpeGames" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lekcja10" />
         <item itemvalue="Application.lekcja9" />
         <item itemvalue="Application.tablice" />
         <item itemvalue="Application.lekcja7" />
         <item itemvalue="Application.switchcaseYt" />
-        <item itemvalue="Application.simpeGames" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +115,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="lekcja5" />
+                        <option value="typyreferencyjne-cdn" />
                       </list>
                     </value>
                   </entry>
