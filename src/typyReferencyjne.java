@@ -1,5 +1,5 @@
 /* typy referencyjne + string pool  */
-public class lekcja3 {
+public class typyReferencyjne {
     public static void main(String[] args) {
 
 
