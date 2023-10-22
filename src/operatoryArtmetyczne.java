@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class lekcja2 {
+public class operatoryArtmetyczne {
     /* operatory artmetyczne  */
 
     public static void main(String[] args) {
