@@ -1,7 +1,13 @@
 public class operatoryArtmetyczne {
     /* operatory artmetyczne  */
+    // operatory artmetyczne + - % * /
+    // operatory porównania == równy , =! rózny , < mniejszy , > wiekszy
+    // operatory logiczne && and || OR
 
     public static void main(String[] args) {
+
+
+
 
          int index = 0;
          while (index<10) {
