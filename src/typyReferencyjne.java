@@ -14,9 +14,9 @@ public class typyReferencyjne {
 
 	 */
 
-        Integer avar =129;
+        Integer avar =150;
         System.out.println("a:" + avar);
-        Integer bvar =130;
+        Integer bvar =155;
 
         System.out.println("a:" + bvar );
         System.out.println("a==b " + (avar.equals(bvar)));
