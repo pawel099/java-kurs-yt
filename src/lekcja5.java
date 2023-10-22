@@ -1,5 +1,8 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
+import java.util.Random;
+
+
 public class lekcja5 {
 
     private int kwadrat(int wynik) {
@@ -48,4 +51,34 @@ public class lekcja5 {
                System.out.print("podane dane s\u0105 b\u0142edne");
        }
     }
-}
+
+    public void prostaGra() {
+
+            int index=0;
+            int wynik=-1;
+            int los ;
+            Random generate = new Random();
+            los = generate.nextInt(10);
+
+            Scanner outs = new Scanner(System.in);
+
+            do {
+
+                index++;
+                System.out.println("podaj liczbę");
+                wynik = outs.nextInt();
+
+                if (wynik>los) {
+                    System.out.println("wylosowana liczba jest mniejsza od twojej");
+                }
+
+                else if (wynik<los) {
+                    System.out.println("wylosowana liczba jest wieksza od twojej");
+                }
+
+            }  while (wynik!=los);
+            System.out.println(" brawo odgadleś za " + index + " razem ");
+
+        }
+    }
+
