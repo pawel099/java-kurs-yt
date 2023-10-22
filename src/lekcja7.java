@@ -52,7 +52,7 @@ public class lekcja7 {
          }
 
          else {
-              System.out.println("nie ma takiej opcji");
+              System.out.println("bład ,nie ma takiej opcji ");
 
           }
     }
