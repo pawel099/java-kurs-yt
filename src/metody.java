@@ -1,16 +1,14 @@
-public class lekcja6 {
+public class metody {
 
     private String name = "nazwa produktu";
     private double liczba ;
 
-    public lekcja6(String name ,double liczba) {
+    public metody(String name , double liczba) {
 
         this.name = name;
         this.liczba = liczba;
 
     }
-
-
     public String getName() {
 
         return name;
@@ -50,8 +48,8 @@ public class lekcja6 {
 
 
 
-        lekcja6 wynik1 = new lekcja6("mleko",3);
-        lekcja6 wynik2 = new lekcja6("wedlina",12);
+        metody wynik1 = new metody("mleko",3);
+        metody wynik2 = new metody("wedlina",12);
 
 
     }
