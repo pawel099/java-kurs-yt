@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0336ae65-8ecf-454e-9329-e4510c5e1ba9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lekcja1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lekcja1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wstep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wstep.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.lekcja1" />
+      <item itemvalue="Application.lekcja2" />
+      <item itemvalue="Application.lekcja3" />
+      <item itemvalue="Application.lekcja4" />
+      <item itemvalue="Application.lekcja5" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.lekcja5" />
