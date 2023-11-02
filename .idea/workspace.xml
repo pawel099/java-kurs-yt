@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0336ae65-8ecf-454e-9329-e4510c5e1ba9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lekcja10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lekcja9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lekcja9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lekcja10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tabliczkaMnozenia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lekcja9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tablice_003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tablice.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,32 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.lekcja10">
-    <configuration name="lekcja10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja10" />
-      <module name="java-kurs-yt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.tabliczkaMnozenia">
     <configuration name="lekcja7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lekcja7" />
-      <module name="java-kurs-yt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lekcja9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja9" />
       <module name="java-kurs-yt" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,17 +65,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tablice_003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tablice_003" />
+      <module name="java-kurs-yt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tabliczkaMnozenia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tabliczkaMnozenia" />
+      <module name="java-kurs-yt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.lekcja10" />
-      <item itemvalue="Application.lekcja9" />
+      <item itemvalue="Application.tabliczkaMnozenia" />
       <item itemvalue="Application.tablice" />
       <item itemvalue="Application.switchcaseYt" />
       <item itemvalue="Application.lekcja7" />
+      <item itemvalue="Application.tablice_003" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lekcja10" />
-        <item itemvalue="Application.lekcja9" />
+        <item itemvalue="Application.tabliczkaMnozenia" />
+        <item itemvalue="Application.tablice_003" />
         <item itemvalue="Application.tablice" />
         <item itemvalue="Application.lekcja7" />
         <item itemvalue="Application.switchcaseYt" />

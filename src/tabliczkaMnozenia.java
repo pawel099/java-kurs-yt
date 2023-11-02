@@ -1,5 +1,5 @@
 
-public class lekcja10 {
+public class tabliczkaMnozenia {
 
            private String tabliczkaMnozenia() {
                int[][] liczba = new int[10][10];
@@ -21,7 +21,7 @@ public class lekcja10 {
 
     public static void main(String[] args) {
 
-        lekcja10 g = new lekcja10();
+        tabliczkaMnozenia g = new tabliczkaMnozenia();
         System.out.println(g.tabliczkaMnozenia());
     }
 }

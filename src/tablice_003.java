@@ -1,4 +1,4 @@
-public class lekcja9 {
+public class tablice_003 {
 
     public static void main(String[] args) {
 
