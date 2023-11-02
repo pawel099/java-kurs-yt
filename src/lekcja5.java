@@ -1,84 +1,52 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.Random;
+ class obliczPole {
 
-
-public class lekcja5 {
-
-    private int kwadrat(int wynik) {
+    public static int kwadrat(int wynik) {
             int suma = ( 4 * wynik);
             return suma;
     }
 
-
-    private double prostokat(double x ,double y) {
+    public static double prostokat(double x, double y) {
         double suma =2*x + 2* y;
         return suma;
     }
 
     public static void main(String[] args) {
 
-        lekcja5 obliczPole = new lekcja5();
+        obliczPole oblicz = new obliczPole();
 
         try {
 
              Scanner inputs = new Scanner(System.in);
 
-             /* System.out.print("oblicz d\u0142ugo\u015B\u0107 boku kwadratu aby wyliczy\u0107 jego objeto\u015B\u0107: ");
+             System.out.print("oblicz d\u0142ugo\u015B\u0107 boku kwadratu aby wyliczy\u0107 jego pole : ");
              int dane = inputs.nextInt();
-             System.out.print("obwód pola kwadratu to " + obliczPole.kwadrat(dane));
-             */
+             System.out.print("obwód pola kwadratu to " + + obliczPole.kwadrat(dane) + "\n ");
 
-            /* System.out.print("podaj długość boku A prostokąta: ");
+
+             System.out.print("podaj długość boku A prostokąta: ");
              double sideLengthA = inputs.nextDouble();
 
 
              System.out.print("podaj długość boku B prostokąta: ");
              double sideLengthB = inputs.nextDouble();
+             System.out.print("długość boku prostokęta A I B to " + obliczPole.prostokat(sideLengthA,sideLengthB) + "\n ");
 
-             System.out.print("długość boku prostokęta A I B to " + obliczPole.prostokat(sideLengthA,sideLengthB));
-            */
 
             System.out.print("porównaj wartość A ");
             int sideLengthC = inputs.nextInt();
             System.out.print("porównaj wartość B ");
             int sideLengthL = inputs.nextInt();
-            System.out.print("A I B jest " +  (sideLengthC==sideLengthL));
+            System.out.print("A I B jest " +  (sideLengthC==sideLengthL)+ "\n ");
 
           }
 
          catch (InputMismatchException e) {
-               System.out.print("podane dane s\u0105 b\u0142edne");
+               System.out.print("podane dane są błedne");
        }
     }
+}
 
-    public void prostaGra() {
-
-            int index=0;
-            int wynik=-1;
-            int los ;
-            Random generate = new Random();
-            los = generate.nextInt(10);
-
-            Scanner outs = new Scanner(System.in);
-
-            do {
-
-                index++;
-                System.out.println("podaj liczbę");
-                wynik = outs.nextInt();
-
-                if (wynik>los) {
-                    System.out.println("wylosowana liczba jest mniejsza od twojej");
-                }
-
-                else if (wynik<los) {
-                    System.out.println("wylosowana liczba jest wieksza od twojej");
-                }
-
-            }  while (wynik!=los);
-            System.out.println(" brawo odgadleś za " + index + " razem ");
-
-        }
-    }
 
