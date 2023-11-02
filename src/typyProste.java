@@ -1,4 +1,4 @@
-public class lekcja0 {
+public class typyProste {
     // typy proste
 
     public static void main(String[] args) {
