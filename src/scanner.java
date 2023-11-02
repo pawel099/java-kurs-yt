@@ -1,6 +1,5 @@
-import java.util.InputMismatchException;
 import java.util.Scanner;
-public class lekcja7 {
+public class scanner {
 
     private Scanner scanner ;
 
@@ -41,7 +40,7 @@ public class lekcja7 {
         Scanner initialize  = new Scanner(System.in);
 
         int y = initialize.nextInt();
-        lekcja7 wynik = new lekcja7();
+        scanner wynik = new scanner();
 
           if (y==1) {
             System.out.println("obwód kwadratu: to " + wynik.switchCase(y));
