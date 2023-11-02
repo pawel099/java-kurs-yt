@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-
-public class tablice {
+public class tablice_002 {
 
     public static void main(String[] args) {
 

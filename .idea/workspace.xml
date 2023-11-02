@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0336ae65-8ecf-454e-9329-e4510c5e1ba9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lekcja9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tablica_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tablice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tablice_002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +39,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lekcja9">
+  <component name="RunManager" selected="Application.tablice_002">
     <configuration name="lekcja7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lekcja7" />
-      <module name="java-kurs-yt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lekcja9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja9" />
       <module name="java-kurs-yt" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,24 +61,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tablice" />
+    <configuration name="tablica_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tablica_001" />
+      <module name="java-kurs-yt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tablice_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tablice_002" />
       <module name="java-kurs-yt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.lekcja9" />
-      <item itemvalue="Application.tablice" />
+      <item itemvalue="Application.tablica_001" />
+      <item itemvalue="Application.tablice_002" />
       <item itemvalue="Application.switchcaseYt" />
       <item itemvalue="Application.lekcja7" />
       <item itemvalue="Application.simpeGames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lekcja9" />
-        <item itemvalue="Application.tablice" />
+        <item itemvalue="Application.tablice_002" />
+        <item itemvalue="Application.tablica_001" />
         <item itemvalue="Application.lekcja7" />
         <item itemvalue="Application.switchcaseYt" />
         <item itemvalue="Application.simpeGames" />
