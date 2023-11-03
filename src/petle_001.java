@@ -6,8 +6,6 @@ public class petle_001 {
 
         String[][] lista = {
 
-                {"lista pracowników"},
-
                 {"anna"," - pracownik biurowy "},
                 {"michal"," - Starszy Programista" },
                 {"piotr", " - kierownik działu"},
@@ -15,9 +13,12 @@ public class petle_001 {
                 {"regina"," - młodszy programista"},
           };
 
-        for (int loop_lista=0;loop_lista<lista.length;loop_lista++) {
-            for (int loop_w = 0; loop_w < lista[loop_lista].length; loop_w++) {
+        Scanner F = new Scanner(System.in);
+        System.out.println("wyswietl liczbę elementów listy : ");
+        int imie = F.nextInt();
 
+        for (int loop_lista=0;loop_lista<imie;loop_lista++) {
+            for (int loop_w = 0; loop_w <lista[loop_lista].length; loop_w++) {
                 System.out.print(lista[loop_lista][loop_w] + " ");
                 System.out.println();
 
@@ -40,9 +41,8 @@ public class petle_001 {
 
 
     public static void main(String[] args) {
-    petle_001 dane = new petle_001();
+       petle_001 dane = new petle_001();
         dane.listaUzytkownikow();
        // dane.choinka();
     }
-
 }
