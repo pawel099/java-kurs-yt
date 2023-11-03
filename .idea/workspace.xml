@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0336ae65-8ecf-454e-9329-e4510c5e1ba9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/petle_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/petle_001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +38,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.petle_001">
+  <component name="RunManager" selected="Application.wyjatki">
     <configuration name="lekcja1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lekcja1" />
-      <module name="java-kurs-yt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lekcja4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja4" />
       <module name="java-kurs-yt" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,20 +67,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="wyjatki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wyjatki" />
+      <module name="java-kurs-yt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.wyjatki" />
       <item itemvalue="Application.petle_001" />
       <item itemvalue="Application.lekcja1" />
-      <item itemvalue="Application.lekcja4" />
       <item itemvalue="Application.lekcja5" />
       <item itemvalue="Application.lekcja6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.wyjatki" />
         <item itemvalue="Application.petle_001" />
         <item itemvalue="Application.lekcja6" />
         <item itemvalue="Application.lekcja1" />
         <item itemvalue="Application.lekcja5" />
-        <item itemvalue="Application.lekcja4" />
       </list>
     </recent_temporary>
   </component>
