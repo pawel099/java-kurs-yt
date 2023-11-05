@@ -30,23 +30,7 @@ public class metody {
         return this.liczba;
     }
 
-    private void typReferencyjny() {
-
-	/*	int intVar=1;
-		Integer intvarWrapper =3;
-		intvarWrapper.toString();
-		System.out.println(Integer.parseInt("3533"));
-		System.out.println("int " + intVar);
-
-	*/
-
-
-    }
-
-
     public static void main(String[] args) {
-
-
 
         metody wynik1 = new metody("mleko",3);
         metody wynik2 = new metody("wedlina",12);
