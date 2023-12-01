@@ -1,5 +1,5 @@
 package carSharingAplication;
-public class car {
+public class car extends bicycle {
     public String color="green";
     public String model;
     public Double price;
@@ -21,6 +21,11 @@ public class car {
         car audi = new car();
         audi.getInfoCar("Audi","red",234.8,66.9);
 
+        System.out.println("...............................................................");
+
+        car bicycles = new car();
+        bicycles.bicycle();
+        bicycles.motorówka();
 
     }
 

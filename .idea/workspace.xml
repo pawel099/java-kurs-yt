@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0336ae65-8ecf-454e-9329-e4510c5e1ba9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleGames/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/carSharingAplication/bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/cz1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/cz1/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/cz1/bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/cz1/samochod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aplikacja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleGames/aplikacja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/klasy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obiektowoscLekcja1/klasy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/obiekty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obiektowoscLekcja1/obiekty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/carSharingAplication/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/carSharingAplication/car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dziedziczenie.cz1.Main" />
+      <module name="java-kurs-yt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dziedziczenie.cz1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="carSharingAplication.car" />
       <module name="java-kurs-yt" />
@@ -77,13 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="metody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metody" />
-      <module name="java-kurs-yt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="obiekty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="obiektowoscLekcja1.obiekty" />
       <module name="java-kurs-yt" />
@@ -92,19 +100,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.car" />
       <item itemvalue="Application.klasy" />
       <item itemvalue="Application.main" />
       <item itemvalue="Application.obiekty" />
-      <item itemvalue="Application.metody" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.car" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.klasy" />
         <item itemvalue="Application.obiekty" />
-        <item itemvalue="Application.metody" />
       </list>
     </recent_temporary>
   </component>
