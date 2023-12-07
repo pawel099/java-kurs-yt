@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0336ae65-8ecf-454e-9329-e4510c5e1ba9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/carSharingAplication/bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/cz1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/cz1/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/cz1/bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/cz1/samochod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/carSharingAplication/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/carSharingAplication/car.java" afterDir="false" />
     </list>
@@ -45,7 +40,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.car">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dziedziczenie.cz1.Main" />
       <module name="java-kurs-yt" />
@@ -108,8 +103,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.car" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.klasy" />
         <item itemvalue="Application.obiekty" />
