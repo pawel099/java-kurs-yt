@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0336ae65-8ecf-454e-9329-e4510c5e1ba9" name="Changes" comment="" />
+    <list default="true" id="0336ae65-8ecf-454e-9329-e4510c5e1ba9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/interfacePackageClass/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacePackageClass/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacePackageClass/bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacePackageClass/cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacePackageClass/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacePackageClass/krowa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacePackageClass/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacePackageClass/quadropets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -27,17 +38,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pawel/IdeaProjects/java-kurs-yt&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "C:/Users/pawel/IdeaProjects/java-kurs-yt",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.klasyAbstrakcyjne.main">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="interfacePackageClass" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.interfacePackageClass.main">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dziedziczenie.cz1.Main" />
       <module name="java-kurs-yt" />
@@ -57,6 +74,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="carSharingAplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="interfacePackageClass.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfacePackageClass.main" />
+      <module name="java-kurs-yt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfacePackageClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,28 +127,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="obiekty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="obiektowoscLekcja1.obiekty" />
-      <module name="java-kurs-yt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.interfacePackageClass.main" />
       <item itemvalue="Application.klasyAbstrakcyjne.main" />
       <item itemvalue="Application.car" />
       <item itemvalue="Application.klasy" />
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.obiekty" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.interfacePackageClass.main" />
         <item itemvalue="Application.klasyAbstrakcyjne.main" />
         <item itemvalue="Application.car" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.klasy" />
-        <item itemvalue="Application.obiekty" />
       </list>
     </recent_temporary>
   </component>
