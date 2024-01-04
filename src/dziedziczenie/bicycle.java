@@ -1,4 +1,4 @@
-package dziedziczenie.cz1;
+package dziedziczenie;
 
 public class bicycle {
     public void ringBell(String cars2) {
