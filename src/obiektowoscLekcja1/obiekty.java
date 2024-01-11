@@ -1,3 +1,0 @@
-package obiektowoscLekcja1;
-
-
