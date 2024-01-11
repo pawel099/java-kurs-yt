@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0336ae65-8ecf-454e-9329-e4510c5e1ba9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FilePackageClass/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file/plik.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FilePackageClass/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FilePackageClass/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +45,28 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pawel\IdeaProjects\java-kurs-yt\src\file" />
+      <recent name="C:\Users\pawel\IdeaProjects\java-kurs-yt\src\FilePackageClass" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="interfacePackageClass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ObjectProgramInterface.main">
+  <component name="RunManager" selected="Application.FilePackageClass.main">
+    <configuration name="FilePackageClass.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FilePackageClass.main" />
+      <module name="java-kurs-yt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FilePackageClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dziedziczenie.cz1.Main" />
       <module name="java-kurs-yt" />
@@ -115,34 +132,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleGames.main" />
-      <module name="java-kurs-yt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simpleGames.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.FilePackageClass.main" />
       <item itemvalue="Application.ObjectProgramInterface.main" />
       <item itemvalue="Application.interfacePackageClass.main" />
       <item itemvalue="Application.klasyAbstrakcyjne.main" />
       <item itemvalue="Application.car" />
-      <item itemvalue="Application.main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FilePackageClass.main" />
         <item itemvalue="Application.ObjectProgramInterface.main" />
         <item itemvalue="Application.interfacePackageClass.main" />
         <item itemvalue="Application.klasyAbstrakcyjne.main" />
         <item itemvalue="Application.car" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
