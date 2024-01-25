@@ -12,13 +12,12 @@ public class conects implements conection ,views {
 
        Object[] lista = {
                polacz,
-               frames
+
        };
 
        for (Object lists : lista ) {
             System.out.println(lists);
-            frames.setSize(400,400);
-            frames.setVisible(true);
+
 
         }
     }
