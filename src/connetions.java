@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class conects implements conection ,views {
+public class connetions implements connection,views {
 
     public static void lista() {
 

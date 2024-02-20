@@ -1,6 +1,4 @@
-import javax.swing.*;
-
-public interface conection {
+public interface connection {
 
        String connect = null;
        String name = null;

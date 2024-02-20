@@ -1,4 +1,4 @@
- public  class view extends conects {
+ public  class view extends connetions {
 
 
 
