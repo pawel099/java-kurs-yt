@@ -9,6 +9,7 @@ public class program {
 
             if (index % 2 == 0) {
                 int x = index * tablica_elementow[index];
+                System.out.println(tablica_elementow[index]);
                 this.int_num_value = x;
             }
         }
