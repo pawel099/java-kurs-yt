@@ -1,4 +1,4 @@
-package simpleGames;
+package simpleAplication;
 
 public interface connector {
 
