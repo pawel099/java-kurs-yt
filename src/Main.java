@@ -1,9 +1,6 @@
 class main {
    public static void main(String[] args)  {
-
-      view.lista();
-
-
+  // gui
    }
 
 }
